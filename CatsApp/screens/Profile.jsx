@@ -37,7 +37,7 @@ const UploadImageScreen = ({navigation }) => {
 
   const uploadImage = async () => {
     try {
-      const response = await axios.post('http://192.168.1.16:3000/api/products/', {
+      const response = await axios.post('http://192.168.100.244:3000/api/products/', {
         Title:title,
         Breed: breed,
         Price: price,
