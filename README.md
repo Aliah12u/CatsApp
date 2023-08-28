@@ -16,4 +16,5 @@ to run this app
 6) "!important" write expo upgrade or any error
 7) then write expo start
 
+![Alt text](imgthree.jpg)
 ![Alt text](imgOne.jpg)![Alt text](imgTwo.jpg)
