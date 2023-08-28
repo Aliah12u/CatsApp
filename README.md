@@ -1,5 +1,5 @@
 # CatsApp
-this project create with expo
+this project create with expo and backend node.js 
 #contain
 .list of card cat
 .add card cat
@@ -22,3 +22,4 @@ to run this app
 |      Home Page    |      Details Page     |
 
 ![Alt text](imgOne.jpg) |
+
