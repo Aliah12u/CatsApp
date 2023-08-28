@@ -19,6 +19,6 @@ to run this app
 
 | ![imgThree](imgThree.jpg) | ![imgTwo](imgTwo.jpg) |
 |:----------------------:|:----------------------:|
-|      Description 1     |      Description 2     |
+|      Home Page    |      Details Page     |
 
 ![Alt text](imgOne.jpg) |![Alt](imgTwo.jpg)
