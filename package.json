@@ -1,0 +1,11 @@
+{
+  "name": "ubuntu",
+  "packageManager": "yarn@3.5.0",
+  "dependencies": {
+    "darkmode-js": "^1.5.7",
+    "jwt-decode": "^3.1.2",
+    "react": "18.2.0",
+    "react-native": "0.72.3",
+    "react-native-reanimated": "^3.0.2"
+  }
+}
