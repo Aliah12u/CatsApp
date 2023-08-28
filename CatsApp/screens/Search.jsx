@@ -16,7 +16,7 @@ const Search = () => {
   const { data, isLoading, error } = UseFetch();
   
   const SearchValue = async ()=> {
-    const response = await axios.get(`http://192.168.1.16:3000/api/products/search/${value}`)
+    const response = await axios.get(`http://192.168.100.244:3000/api/products/search/${value}`)
     try {
       setSearchResult(response.data)
      
