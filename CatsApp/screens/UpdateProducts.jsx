@@ -20,7 +20,7 @@ const UpdateProducts = ({ route, navigation }) => {
 
   useEffect(() => {
     
-    axios.get(`http://192.168.1.16:3000/api/products/${item._id}`)
+    axios.get(`http://192.168.100.244:3000/api/products/${item._id}`)
       .then(response => {
         const { Title, Breed, Price, Description, ImageUrl } = response.data;
         setTitle(Title);
@@ -49,7 +49,7 @@ const UpdateProducts = ({ route, navigation }) => {
 
   const updateProduct = async () => {
     try {
-      const response = await axios.put(`http://192.168.1.16:3000/api/products/${item._id}`, {
+      const response = await axios.put(`http://192.168.100.244:3000/api/products/${item._id}`, {
         Title,
         Breed,
         Price,
