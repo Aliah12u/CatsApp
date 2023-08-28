@@ -13,7 +13,7 @@ const ProductDetails = ({ navigation }) => {
 
   const handleRemove = async () => {
     try {
-      await axios.delete(`http://192.168.1.16:3000/api/products/${item._id}`, {
+      await axios.delete(`http://192.168.100.244:3000/api/products/${item._id}`, {
         headers: {
           "Content-Type": "application/json",
         },
