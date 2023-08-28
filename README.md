@@ -21,4 +21,4 @@ to run this app
 |:----------------------:|:----------------------:|
 |      Home Page    |      Details Page     |
 
-![Alt text](imgOne.jpg) |![Alt](imgTwo.jpg)
+![Alt text](imgOne.jpg) |
