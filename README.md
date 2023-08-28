@@ -17,6 +17,10 @@ to run this app
 7) then write expo start
 
 
+[![Thumbnail](https://drive.google.com/file/d/1FJJdpP88QlbCYrCASIo6yyIbKmxJKHF9/view?usp=drive_link)](https://drive.google.com/file/d/1Fd7fj9Sm7qAZTGRFZu0G7bxyl828l1MS/view?autoplay=1)
+
+
+
 | ![imgThree](imgThree.jpg) | ![imgTwo](imgTwo.jpg) |
 |:----------------------:|:----------------------:|
 |      Home Page    |      Details Page     |
