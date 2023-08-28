@@ -17,7 +17,7 @@ to run this app
 7) then write expo start
 
 
-| ![Image 1](imgThree.jpg) | ![Image 2](imgTwo.jpg) |
+| ![imgThree](imgThree.jpg) | ![imgTwo](imgTwo.jpg) |
 |:----------------------:|:----------------------:|
 |      Description 1     |      Description 2     |
 
